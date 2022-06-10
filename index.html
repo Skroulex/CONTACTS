@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+<h1>Add contact</h1>
+<div class="inputs">
+<input type="" name="" placeholder="name" id="inp-add-name" />
+<input type="" name="" placeholder="surname" id="inp-add-surname" />
+<input type="" placeholder="phone number" name="" id="inp-add-tel" />
+<button id="btn-add">save</button>
+</div>
+<p class="contacts">Contacts</p>
+<div id="list"></div>
+<div class="search">
+<input id="inp-search" type="text" placeholder="Search" />
+</div>
+<div id="modal-edit">
+    <div id="modal-edit-body">
+        <button id="modal-edit-close">Close</button>
+        <div id="modal-edit-inps">
+            <input type="text" placeholder="name" id="inp-edit-name" />
+            <input type="text" placeholder="surname" id="inp-edit-surname" />
+            <input type="text" placeholder="phone number" id="inp-edit-tel" />
+            <input type="text" id="inp-edit-id" />
+            <button id="btn-save-edit">Save</button>
+        </div>
+    </div>
+</div>
+<div id="pagination"></div>
+<script src="./main.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "Ilim",
+      "surname": "Kushbekov",
+      "phone": "0555343433",
+      "id": 2
+    },
+    {
+      "name": "Maksat",
+      "surname": "Kadyrov",
+      "phone": "0702222222",
+      "id": 3
+    },
+    {
+      "name": "Abylai",
+      "surname": "Uzgenov",
+      "phone": "0702311331",
+      "id": 4
+    },
+    {
+      "name": "Bolot",
+      "surname": "Kamchybekov",
+      "phone": "0222866853",
+      "id": 5
+    },
+    {
+      "name": "Aliya",
+      "surname": "Mamytova",
+      "phone": "0888585858",
+      "id": 6
+    },
+    {
+      "name": "Polina",
+      "surname": "Molodec",
+      "phone": "123321123",
+      "id": 7
+    },
+    {
+      "name": "Azret",
+      "surname": "Mamataliev",
+      "phone": "4884488484",
+      "id": 8
+    },
+    {
+      "name": "Begimay",
+      "surname": "Kalykova",
+      "phone": "321321321",
+      "id": 9
+    },
+    {
+      "name": "Dzhalil",
+      "surname": "Eshimbekov",
+      "phone": "0554770020",
+      "id": 10
+    }
+  ]
+}
