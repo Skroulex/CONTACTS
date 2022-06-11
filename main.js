@@ -32,6 +32,8 @@ btnAdd.addEventListener("click", async function () {
     });
     getTodos();
     inpAddName.value = "";
+    inpAddSurname.value = "";
+    inpAddTel.value = "";
 });
 let pagination = document.getElementById("pagination");
 let page = 1;
